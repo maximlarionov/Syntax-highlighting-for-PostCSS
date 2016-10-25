@@ -7,7 +7,25 @@ SugarSS syntax highlighting for Sublime Text. This package is a fork of [Syntax-
 * Using SSS syntax highlighting. This covers all of SugarSS syntax, which is covered by Atom version.
 * Automatic enable syntax highlighting by `*.sss` file extensions;
 
-There is a lot of possible improvements can be made to this syntax, but frankly, I don't understand in syntax files much and hope for the help of the community.
+Feel free to improve the syntax, I'm don't know much about syntax stuff, and managed to do this work by randomly slapping keyboard.
+
+## Examples
+Indent-based CSS syntax for [PostCSS].
+
+```sass
+a
+  color: blue
+
+.multiline,
+.selector
+  box-shadow: 1px 0 9px rgba(0, 0, 0, .4),
+              1px 0 3px rgba(0, 0, 0, .6)
+
+// Mobile
+@media (max-width: 400px)
+  .body
+    padding: 0 10px
+```
 
 ## Installation
 
