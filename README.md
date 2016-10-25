@@ -1,6 +1,6 @@
 # Syntax Highlighting for [SugarSS]
 
-<img src="http://postcss.github.io/sugarss/logo.svg"> title="SugarSS logo by Maria Keller" align="right" width="95" height="95">
+<img src="http://postcss.github.io/sugarss/logo.svg" title="SugarSS logo by Maria Keller" align="right" width="95" height="95">
 
 SugarSS syntax highlighting for Sublime Text. This package is a fork of [Syntax-highlighting-for-PostCSS] by @hudochenkov:
 
